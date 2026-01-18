@@ -6,7 +6,7 @@ Languages:
 
 Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,fastap,django,spring,materialui&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,django,spring,materialui&perline=10)](https://skillicons.dev)
 
 Developer Tools: 
 

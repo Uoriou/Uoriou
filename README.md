@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Developer Tools: 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,ts,js,html,css,react,spring,fastapi,django,docker,git,kali,linux,latex,neovim&perline=5)](https://skillicons.dev)
 <!--
 **Uoriou/Uoriou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

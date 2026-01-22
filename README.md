@@ -2,16 +2,16 @@
 
 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,java,ts,js,html,css&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,java,ts,js,html,css&perline=10)]
 
 Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,django,spring,materialui&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,express,fastapi,django,spring,materialui&perline=10)]
 
 Developer Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,postgres,mysql,kali,linux,neovim&perline=10)](https://skillicons.dev)
-<!--
+[![My Skills](https://skillicons.dev/icons?i=docker,git,postgres,mysql,kali,linux&perline=10)]
+
 **Uoriou/Uoriou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

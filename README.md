@@ -1,6 +1,5 @@
 ## Hi there I'm Mario 👋
 
-![Profile view ](https://komarev.com/ghpvc/?username=Uoriou)
 
 Languages:
 

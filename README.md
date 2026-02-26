@@ -1,7 +1,5 @@
 ## Hi there I'm Mario 👋
 
-![Profile view ](https://komarev.com/ghpvc/?username=Uoriou)
-
 Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,py,java,ts,js,html,css&perline=10)](https://skillicons.dev)
